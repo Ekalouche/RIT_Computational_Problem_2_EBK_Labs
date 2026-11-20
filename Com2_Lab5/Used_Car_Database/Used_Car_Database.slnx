@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Used_Car_Database.vcxproj" Id="70f4e8ba-2225-425e-85c3-31b61ae3ca67" />
+</Solution>
